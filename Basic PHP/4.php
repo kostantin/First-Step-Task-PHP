@@ -1,0 +1,35 @@
+<?php
+
+echo 0x0, "<br>";
+
+echo 0x1, "<br>";
+
+echo 0x2, "<br>";
+
+echo 0x3, "<br>";
+
+echo 0x4, "<br>";
+
+echo 0x5, "<br>";
+
+echo 0x6, "<br>";
+
+echo 0x7, "<br>";
+
+echo 0x8, "<br>";
+
+echo 0x9, "<br>";
+
+echo 0xA, "<br>";
+
+echo 0xB, "<br>";
+
+echo 0xC, "<br>";
+
+echo 0xD, "<br>";
+
+echo 0xE, "<br>";
+
+echo 0xF, "<br>";
+
+?>
